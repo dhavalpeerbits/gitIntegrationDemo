@@ -26,6 +26,8 @@
     NSLog(@"Version new");
     
     NSLog(@"Version");
+    
+    NSLog(@"Version1");
 
     // Do any additional setup after loading the view, typically from a nib.
 }
