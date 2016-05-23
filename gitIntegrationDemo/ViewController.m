@@ -10,7 +10,7 @@
 
 @interface ViewController ()
 {
-    
+    NSString *str;
     
 }
 
