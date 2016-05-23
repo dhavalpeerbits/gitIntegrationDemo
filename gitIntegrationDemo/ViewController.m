@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"Version Control");
+    
+    NSLog(@"Version new");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
