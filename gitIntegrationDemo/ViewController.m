@@ -9,6 +9,10 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+{
+    
+    
+}
 
 @end
 
@@ -20,6 +24,9 @@
     NSLog(@"Version Control");
     
     NSLog(@"Version new");
+    
+    NSLog(@"Version");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
